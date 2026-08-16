@@ -1,19 +1,29 @@
 {
   "project_info": {
-    "project_number": "YOUR_PROJECT_NUMBER",
-    "firebase_url": "https://YOUR_PROJECT_ID.firebaseio.com",
-    "project_id": "YOUR_PROJECT_ID",
-    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
+    "project_number": "342301181902",
+    "project_id": "cabme-app-21a3a",
+    "storage_bucket": "cabme-app-21a3a.firebasestorage.app"
   },
-  "api_key": [
+  "client": [
     {
-      "current_key": "YOUR_FIREBASE_API_KEY"
+      "client_info": {
+        "mobilesdk_app_id": "1:342301181902:android:dc2da00748a5a0b7c00d9f",
+        "android_client_info": {
+          "package_name": "com.cabme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Yjstdnlk4tK_pZ2cKF2mOL9tyNSn2es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
     }
   ],
-  "services": {
-    "appinvite_service": {
-      "other_platform_oauth_client": []
-    }
-  },
   "configuration_version": "1"
 }
